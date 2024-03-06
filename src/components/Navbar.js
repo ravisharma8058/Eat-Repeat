@@ -28,7 +28,7 @@ export default function Navbar(props) {
             <nav className="navbar navbar-expand-lg navbar-dark bg-success position-sticky"
                 style={{ boxShadow: "0px 10px 20px black", filter: 'blur(20)', position: "fixed", zIndex: "10", width: "100%" }}>
                 <div className="container-fluid">
-                    <Link className="navbar-brand fs-1 fst-italic" to="/">GoFood</Link>
+                    <Link className="navbar-brand fs-1 fst-italic" to="/">Eat&Repeat</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
